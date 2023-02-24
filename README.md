@@ -67,7 +67,9 @@ After installing the script, you can choose two options from the script:<br>
     
 2. It is for Solve Sudoku Manually:
     
+    <p align="center">
     <a href="https://github.com/mammaddrik/garns"><img src="https://i.postimg.cc/6Qzg822s/garns-2.png" alt="Garns_2"></a>
+    </p>
 
 ## License
 hashtools is licensed under [MIT License](https://github.com/mammaddrik/garns/blob/main/LICENSE).
