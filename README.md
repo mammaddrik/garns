@@ -67,6 +67,8 @@ After installing the script, you can choose two options from the script:<br>
 
 2. It is for Solve Sudoku Manually:
 
+    >Sudoku txt file:  
+    
     [![garns-2.png](https://i.postimg.cc/L8Q8jXZP/garns-2.png)](https://postimg.cc/rDWTkqjy)
 
 ## License
