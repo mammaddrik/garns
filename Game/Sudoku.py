@@ -1,4 +1,18 @@
+#!/usr/bin/env python
+#
+#   _________         .___      __          
+#  /   _____/__ __  __| _/____ |  | ____ __ 
+#  \_____  \|  |  \/ __ |/  _ \|  |/ /  |  \
+#  /        \  |  / /_/ (  <_> )    <|  |  /
+# /_______  /____/\____ |\____/|__|_ \____/ 
+#         \/           \/           \/      
+#        A sudoku solver & sudoku game   
+#              Github: mammaddrik    
+
+# ::::: Default Library :::::
 import tkinter as tk
+
+#::::: Library :::::
 from src.gui.sudoku_gui import GUI
 
 def main():
