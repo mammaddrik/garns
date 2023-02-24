@@ -101,20 +101,20 @@ except KeyboardInterrupt:
 #::::: Print Board :::::
 def print_board(bo):
     "Border printing function."
-    print("\033[1;31m┌───────┬───────┬───────┐")
+    print(color_banner[5]+"┌───────┬───────┬───────┐"+Color.End)
     for i in range(len(bo)):
         if i % 3 == 0 and i != 0:
-            print("\033[1;31m├───────┼───────┼───────┤")
+            print(color_banner[5]+"├───────┼───────┼───────┤"+Color.End)
         for j in range(len(bo[0])):
             if j % 3 == 0 and j != 0:
-                print("\033[1;31m│ \033[1;37m", end="")
+                print(color_banner[5]+"│ "+Color.End, end="")
             if j == 0:
-                print("\033[1;31m│ \033[1;37m", end="")
+                print(color_banner[5]+"│ "+Color.End, end="")
             if j == 8:
-                print(str(bo[i][j])+"\033[1;31m │\033[1;37m")
+                print(str(bo[i][j])+color_banner[5]+" │ "+Color.End)
             else:
                 print(str(bo[i][j]) + " ", end="")
-    print("\033[1;31m└───────┴───────┴───────┘\033[1;37m")
+    print(color_banner[5]+"└───────┴───────┴───────┘"+Color.End)
 
 #::::: Find Empty :::::
 def find_empty(bo):
