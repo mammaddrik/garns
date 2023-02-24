@@ -62,16 +62,12 @@ After installing the script, you can choose two options from the script:<br>
     [![garns-1.png](https://i.postimg.cc/Rh5dP42C/garns-1.png)](https://postimg.cc/jwcy20sB)
 
     >Sudoku txt file:  
-   <p align="center">
-    <a href="https://github.com/mammaddrik/garns">
-    <img src="https://i.postimg.cc/KvskFJvB/sudokutxt.png">
-    </p> 
+    
+    [![sudokutxt.png](https://i.postimg.cc/KvskFJvB/sudokutxt.png)](https://postimg.cc/8jMPmdvz)
+    
 2. It is for Solve Sudoku Manually:
-
-   <p align="center">
-    <a href="https://github.com/mammaddrik/garns">
-    <img src="https://i.postimg.cc/d0HFzS9T/garns-2.png">
-    </p> 
+    
+    [![garns-2.png](https://i.postimg.cc/6Qzg822s/garns-2.png)](https://postimg.cc/WDFXK4wS)
 
     
 ## License
