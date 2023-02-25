@@ -6,7 +6,7 @@
     <br>
 </h1>
 
-<h3 align="center">Sudoku Solver & Sudoku Game</h3>
+<h3 align="center">Sudoku Solve</h3>
 
 <p align="center">
     <a href="https://github.com/mammaddrik/garns/releases">
