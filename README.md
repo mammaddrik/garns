@@ -68,9 +68,8 @@ After installing the script, you can choose two options from the script:<br>
     ![sudokutxt.png](https://i.postimg.cc/yx3ZN5ft/sudokutxt.png)
     
 2. It is for Solve Sudoku Manually:
-
-
-      ![garns-2.png](https://i.postimg.cc/yxTkWHmf/garns-2.png)
+    ![garns-2.png](https://i.postimg.cc/NfkQhDDx/garns-2.png)
+     
 
 ## License
 hashtools is licensed under [MIT License](https://github.com/mammaddrik/garns/blob/main/LICENSE).
