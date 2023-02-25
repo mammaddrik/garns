@@ -65,15 +65,19 @@ After run the script, You can play and use the menu on the right:<br>
     ![easymode.png](https://i.postimg.cc/gkZ2nSQW/easymode.png)
 
 2. Hard Mode:
+
     ![hardmode.png](https://i.postimg.cc/VNQ82zkr/hardmode.png)
 
 3. Visual:
+
     ![visual.png](https://i.postimg.cc/02kddSGr/visual.png)
 
 4. Speed:
+
     ![speed.png](https://i.postimg.cc/XJgx4kcS/speed.png)
     
 5. Hint:
+
     ![hint.png](https://i.postimg.cc/CLKS8F1k/hint.png)
 
 6. Right click:
