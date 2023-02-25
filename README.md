@@ -59,13 +59,14 @@ After installing the script, you can choose two options from the script:<br>
 
 1. It is for Solving sudoku as a file:
     >**Note:** To Solving, you must use a text file.
-
+    ![garns-1.png](https://i.postimg.cc/L58PM5f9/garns-1.png)
 
     >Sudoku txt file:  
-
+    ![sudokutxt.png](https://i.postimg.cc/yx3ZN5ft/sudokutxt.png)
 
 2. It is for Solve Sudoku Manually:
-
+        ![garns-2.png](https://i.postimg.cc/GhH6KjN2/garns-2.png)
+        
 ## License
 hashtools is licensed under [MIT License](https://github.com/mammaddrik/garns/blob/main/LICENSE).
 
