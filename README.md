@@ -1,3 +1,4 @@
+<div id="top"></div>
 <h1 align="center">
     <br>
     <a href="https://github.com/mammaddrik/garns"><img src="https://i.postimg.cc/BQrcqYtR/logo.png" alt="Garns logo"></a>
@@ -67,3 +68,5 @@ After installing the script, you can choose two options from the script:<br>
 
 ## License
 hashtools is licensed under [MIT License](https://github.com/mammaddrik/garns/blob/main/LICENSE).
+
+<p align="right"><a href="#top"><img src="https://i.postimg.cc/SKkqXXrk/arrow.png"></a></p>
