@@ -84,5 +84,5 @@ After run the script, You can play and use the menu on the right:<br>
     >Deletes the numbers in each cell
 
 ## License
-hashtools is licensed under [MIT License](https://github.com/mammaddrik/garns/blob/main/LICENSE).
+Garns Game is licensed under [MIT License](https://github.com/mammaddrik/garns/blob/main/LICENSE).
 <p align="right"><a href="#top">back to top</a></p>
