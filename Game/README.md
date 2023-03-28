@@ -53,7 +53,7 @@ Sudoku is a logic-based combinatorial number-placement puzzle. In classic Sudoku
 ```
 git clone https://github.com/mammaddrik/garns.git
 cd garns
-pyrhon pip install -r requirements.txt
+python pip install -r requirements.txt
 cd Game
 python sudokugame.py
 ```
