@@ -1,7 +1,7 @@
 <div id="top"></div>
 <h1 align="center">
     <br>
-    <a href="https://github.com/mammaddrik/garns"><img src="https://i.postimg.cc/rsrVBLmn/logo.png" alt="Garns logo"></a>
+    <a href="https://github.com/mammaddrik/garns"><img src="https://i.postimg.cc/gky03PKC/logo.png" alt="Garns logo"></a>
     <br>
     Garns <br>Sudoku Game
     <br>
@@ -14,7 +14,7 @@
 </p>
 
 <h1 align="center">
-    <a href="https://github.com/mammaddrik/garns"><img src="https://i.postimg.cc/kXM7XRTC/demo.png" alt="Garns demo"></a>
+    <a href="https://github.com/mammaddrik/garns"><img src="https://i.postimg.cc/hGXgZF9P/demo.png" alt="Garns demo"></a>
 </h1>
 
 <details>
@@ -53,7 +53,7 @@ Sudoku is a logic-based combinatorial number-placement puzzle. In classic Sudoku
 ```
 git clone https://github.com/mammaddrik/garns.git
 cd garns
-pyrhon pip install -r requirements.txt
+python pip install -r requirements.txt
 cd Game
 python sudokugame.py
 ```
@@ -62,19 +62,19 @@ python sudokugame.py
 After run the script, You can play and use the menu on the right:<br>
 1. Easy Mode:
 
-    ![easymode.png](https://i.postimg.cc/gkZ2nSQW/easymode.png)
+    ![easymode.png](https://i.postimg.cc/ht9VJwJv/easymode.png)
 
 2. Hard Mode:
 
-    ![hardmode.png](https://i.postimg.cc/VNQ82zkr/hardmode.png)
+    ![hardmode.png](https://i.postimg.cc/RZXcmYNH/hardmode.png)
 
 3. Visual:
 
-    ![visual.png](https://i.postimg.cc/02kddSGr/visual.png)
+    ![visual.png](https://i.postimg.cc/tTtR0Kg0/visual.png)
 
 4. Speed:
 
-    ![speed.png](https://i.postimg.cc/XJgx4kcS/speed.png)
+    ![speed.png](https://i.postimg.cc/mkJ5mDGT/speed.png)
     
 5. Hint:
 
@@ -84,5 +84,5 @@ After run the script, You can play and use the menu on the right:<br>
     >Deletes the numbers in each cell
 
 ## License
-hashtools is licensed under [MIT License](https://github.com/mammaddrik/garns/blob/main/LICENSE).
+Garns Game is licensed under [MIT License](https://github.com/mammaddrik/garns/blob/main/LICENSE).
 <p align="right"><a href="#top">back to top</a></p>
