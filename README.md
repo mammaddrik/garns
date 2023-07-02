@@ -60,15 +60,15 @@ After installing the script, you can choose two options from the script:<br>
 1. It is for Solving sudoku as a file:
     >**Note:** To Solving, you must use a text file.
 
-    ![garns-1.png](https://i.postimg.cc/L58PM5f9/garns-1.png)
+    ![garns-1.png](https://i.postimg.cc/g0R5FX0T/garns-1.png)
 
     >Sudoku txt file:  
 
-    ![sudokutxt.png](https://i.postimg.cc/yx3ZN5ft/sudokutxt.png)
+    ![sudokutxt.png](https://i.postimg.cc/k4TvkqWH/sudokutxt.png)
 
-2. It is for Solve Sudoku Manually:
+3. It is for Solve Sudoku Manually:
 
-    ![garns-2.png](https://i.postimg.cc/05c38F4M/garns-2.png)
+    ![garns-2.png](https://i.postimg.cc/DzFQ08gD/garns-2.png)
         
 ## License
 garns is licensed under [MIT License](https://github.com/mammaddrik/garns/blob/main/LICENSE).
