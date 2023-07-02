@@ -1,3 +1,4 @@
+import sys
 import tkinter as tk
 import numpy as np
 
@@ -129,8 +130,12 @@ class GUI(STYLE):
         hint_b = tk.Button(help_label_frame, text="Hint", command=self.hint_button_action)
         self.Option_Button_Add_Style(hint_b)
         hint_b.grid(row=0,column=0, padx=self.Option_Button_padx, pady=self.Option_Button_pady)
+        help_label_frame.grid(row=6, column=0, pady=self.Option_Frame_pady)
+        self.exit_b = tk.Button(help_label_frame, text = "Exit", command=self.exit_button_action)
+        self.Option_Button_Add_Style(self.exit_b)
+        self.exit_b.grid(row=0,column=1, padx=self.Option_Button_padx, pady=self.Option_Button_pady)
         help_label_frame.grid(row=4, column=0, pady=self.Option_Frame_pady)
-         
+        
     def entry_on_left_click(self,x,y):
         if not self.visual_running:
             self.add_to_entry_queue(x,y)
@@ -198,3 +203,6 @@ class GUI(STYLE):
     def hint_button_action(self):
         if not self.is_clear:
             insert_value(self.Entry_list[self.c_pos_x][self.c_pos_y],self.Hint_board[self.c_pos_x][self.c_pos_y])
+    
+    def exit_button_action(self):
+        sys.exit()

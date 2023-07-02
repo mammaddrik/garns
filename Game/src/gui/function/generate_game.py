@@ -1,6 +1,6 @@
 import numpy as np
 from random import sample
-from .solver import solve, valid, find_empty
+from .solver import solve
 
 #::::: Generate Game :::::
 def gen_game(dif):

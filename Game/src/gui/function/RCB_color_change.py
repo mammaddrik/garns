@@ -5,14 +5,7 @@ from src.gui.style.entry_color_change import (
     bg_to_lightblue,
     readonly_bg_to_lightblue,
     bg_to_white,
-    readonly_to_white,
-    bg_to_red,
-    bg_to_green,
-    fg_to_blue,
-    reset_fg_to_black,
-    fg_to_red,
-    fg_to_white,
-    board_fg_to_blue
+    readonly_to_white
 )
 
 #::::: Change Color :::::
