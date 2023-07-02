@@ -14,7 +14,7 @@
 </p>
 
 <h1 align="center">
-    <a href="https://github.com/mammaddrik/garns"><img src="https://i.postimg.cc/hGXgZF9P/demo.png" alt="Garns demo"></a>
+    <a href="https://github.com/mammaddrik/garns"><img src="https://i.postimg.cc/FsdwgB4v/demo.png" alt="Garns demo"></a>
 </h1>
 
 <details>
@@ -62,23 +62,23 @@ python sudokugame.py
 After run the script, You can play and use the menu on the right:<br>
 1. Easy Mode:
 
-    ![easymode.png](https://i.postimg.cc/ht9VJwJv/easymode.png)
+    ![easymode.png](https://i.postimg.cc/cHLbKDmV/easymode.png)
 
 2. Hard Mode:
 
-    ![hardmode.png](https://i.postimg.cc/RZXcmYNH/hardmode.png)
+    ![hardmode.png](https://i.postimg.cc/KjdqHm22/hardmode.png)
 
 3. Visual:
 
-    ![visual.png](https://i.postimg.cc/tTtR0Kg0/visual.png)
+    ![visual.png](https://i.postimg.cc/HLZftDVp/visual.png)
 
 4. Speed:
 
-    ![speed.png](https://i.postimg.cc/mkJ5mDGT/speed.png)
+    ![speed.png](https://i.postimg.cc/kg93Jv0d/speed.png)
     
 5. Hint:
 
-    ![hint.png](https://i.postimg.cc/CLKS8F1k/hint.png)
+    ![hint.png](https://i.postimg.cc/XNR6hbxq/hint.png)
 
 6. Right click:
     >Deletes the numbers in each cell
