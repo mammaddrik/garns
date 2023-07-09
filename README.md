@@ -66,7 +66,7 @@ After installing the script, you can choose two options from the script:<br>
 
     ![sudokutxt.png](https://i.postimg.cc/k4TvkqWH/sudokutxt.png)
 
-3. It is for Solve Sudoku Manually:
+2. It is for Solve Sudoku Manually:
 
     ![garns-2.png](https://i.postimg.cc/DzFQ08gD/garns-2.png)
         
